@@ -4,22 +4,20 @@ import android.content.ContentValues;
 import android.database.sqlite.SQLiteDatabase;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.support.v7.widget.RecyclerView;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
-import android.widget.ListView;
-import android.widget.SimpleAdapter;
 import android.widget.TextView;
 import android.widget.Toast;
+import roboguice.inject.InjectView;
 
-import java.sql.Date;
 
 
 public class MainActivity extends ActionBarActivity {
 
     TextView mTv;
-
 
     class MyButtonClick implements View.OnClickListener
     {
@@ -67,8 +65,8 @@ public class MainActivity extends ActionBarActivity {
             }
         });
 
-        ListView lv = (ListView)findViewById(R.id.list_data);
-        
+        RecyclerView rv = (RecyclerView)findViewById(R.id.list_item);
+
     }
 
 

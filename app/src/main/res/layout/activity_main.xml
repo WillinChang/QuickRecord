@@ -110,11 +110,12 @@
         android:layout_toRightOf="@id/button_2"
         />
 
-    <ListView
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/dataList"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/list_data"
-        android:layout_below="@+id/button_0" />
+        android:layout_height="120dp"
+
+        />
 
 
 </RelativeLayout>
