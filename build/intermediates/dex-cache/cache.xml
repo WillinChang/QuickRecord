@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/willin/AndroidStudioProjects/QuickRecord/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/willin/AndroidStudioProjects/QuickRecord/app/build/intermediates/pre-dexed/debug/classes-c0fc83a33f059e9a194ee99bfdc3b396e61e726e.jar" />
+    </item>
+    <item
+        jar="/Users/willin/AndroidStudioProjects/QuickRecord/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="/Users/willin/AndroidStudioProjects/QuickRecord/app/build/intermediates/pre-dexed/debug/classes-135bc6599fa2850882d920d9b03b41db17113f72.jar" />
+    </item>
+    <item
+        jar="/Users/willin/AndroidStudioProjects/QuickRecord/app/libs/roboguice-1.1.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f7b5dbedec0aac014670a4aaf1dbfaed46062aea">
+        <dex dex="/Users/willin/AndroidStudioProjects/QuickRecord/app/build/intermediates/pre-dexed/debug/roboguice-1.1.2-74fe3bf23d02cb2a8bd8e7da1320dd52e5c221c7.jar" />
+    </item>
+    <item
+        jar="/Users/willin/AndroidStudioProjects/QuickRecord/app/libs/guice-2.0-no_aop.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2be04047e69a1819a60f111cacced6a81cdbd630">
+        <dex dex="/Users/willin/AndroidStudioProjects/QuickRecord/app/build/intermediates/pre-dexed/debug/guice-2.0-no_aop-e62cf260ab806f359189330c5f3c5f0e0ebce16c.jar" />
+    </item>
+    <item
+        jar="/Users/willin/AndroidStudioProjects/QuickRecord/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/willin/AndroidStudioProjects/QuickRecord/app/build/intermediates/pre-dexed/debug/classes-64809e60b2440f2096def48497ceb15ef6421b0a.jar" />
+    </item>
+    <item
+        jar="/Users/willin/Documents/android-sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/willin/AndroidStudioProjects/QuickRecord/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-b86910fd05b2323f40f4431c8ecebc4486bb8cdf.jar" />
+    </item>
+    <item
+        jar="/Users/willin/AndroidStudioProjects/QuickRecord/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/willin/AndroidStudioProjects/QuickRecord/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-8bb1de3e581f7bececd16d9927e4bf8bd67776eb.jar" />
+    </item>
+
+</items>
